@@ -1,0 +1,10 @@
+C:\Project\Tech-task-uklon\Task5\Task5\bin\Debug\Task5.exe.config
+C:\Project\Tech-task-uklon\Task5\Task5\bin\Debug\Task5.exe
+C:\Project\Tech-task-uklon\Task5\Task5\bin\Debug\Task5.pdb
+C:\Project\Tech-task-uklon\Task5\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+C:\Project\Tech-task-uklon\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Project\Tech-task-uklon\Task5\Task5\obj\Debug\Task5.exe
+C:\Project\Tech-task-uklon\Task5\Task5\obj\Debug\Task5.pdb
+C:\Project\Tech-task-uklon\Task5\Task5\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Tech-task-uklon\Task5\Task5\bin\Debug\Newtonsoft.Json.xml
+C:\Project\Tech-task-uklon\Task5\Task5\obj\Debug\Task5.csproj.CopyComplete
