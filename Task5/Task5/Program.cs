@@ -11,8 +11,8 @@ namespace Task5
         {
             try
             {
-                Console.WriteLine(ShowCurrentTemp("Kyiv"));
-                Console.WriteLine(ShowCurrentTemp("Odesa"));
+                Console.WriteLine("Current temperature in Kyiv: " + ShowCurrentTemp("Kyiv"));
+                Console.WriteLine("Current temperature in Odesa: " + ShowCurrentTemp("Odesa"));
             }
             catch (Exception e)
             {
