@@ -1,0 +1,14 @@
+C:\Project\Tech-task-uklon\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Project\Tech-task-uklon\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Project\Tech-task-uklon\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Project\Tech-task-uklon\Task1\Task1\bin\Debug\Task1.exe
+C:\Project\Tech-task-uklon\Task1\Task1\bin\Debug\Task1.pdb
+C:\Project\Tech-task-uklon\Task1\Task1\obj\Debug\Task1.exe
+C:\Project\Tech-task-uklon\Task1\Task1\obj\Debug\Task1.pdb
+C:\Project\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Project\Task1\Task1\bin\Debug\Task1.exe
+C:\Project\Task1\Task1\bin\Debug\Task1.pdb
+C:\Project\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Project\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Project\Task1\Task1\obj\Debug\Task1.exe
+C:\Project\Task1\Task1\obj\Debug\Task1.pdb
