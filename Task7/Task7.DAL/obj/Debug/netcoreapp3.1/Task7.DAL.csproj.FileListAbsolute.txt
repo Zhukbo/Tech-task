@@ -1,0 +1,15 @@
+C:\Project\Tech-task\Task7\Task7.DAL\bin\Debug\netcoreapp3.1\Task7.DAL.deps.json
+C:\Project\Tech-task\Task7\Task7.DAL\bin\Debug\netcoreapp3.1\Task7.DAL.dll
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.csprojAssemblyReference.cache
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.AssemblyInfoInputs.cache
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.AssemblyInfo.cs
+C:\Project\Tech-task\Task7\Task7.DAL\bin\Debug\netcoreapp3.1\Task7.Core.dll
+C:\Project\Tech-task\Task7\Task7.DAL\bin\Debug\netcoreapp3.1\Task7.DAL.runtimeconfig.json
+C:\Project\Tech-task\Task7\Task7.DAL\bin\Debug\netcoreapp3.1\Task7.DAL.runtimeconfig.dev.json
+C:\Project\Tech-task\Task7\Task7.DAL\bin\Debug\netcoreapp3.1\Task7.DAL.pdb
+C:\Project\Tech-task\Task7\Task7.DAL\bin\Debug\netcoreapp3.1\Task7.Core.pdb
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.csproj.CoreCompileInputs.cache
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.csproj.CopyComplete
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.dll
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.pdb
+C:\Project\Tech-task\Task7\Task7.DAL\obj\Debug\netcoreapp3.1\Task7.DAL.genruntimeconfig.cache

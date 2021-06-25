@@ -1,0 +1,9 @@
+C:\Project\Tech-task\Task7\Task7.Core\bin\Debug\netcoreapp3.1\Task7.Core.deps.json
+C:\Project\Tech-task\Task7\Task7.Core\bin\Debug\netcoreapp3.1\Task7.Core.dll
+C:\Project\Tech-task\Task7\Task7.Core\bin\Debug\netcoreapp3.1\Task7.Core.pdb
+C:\Project\Tech-task\Task7\Task7.Core\obj\Debug\netcoreapp3.1\Task7.Core.csprojAssemblyReference.cache
+C:\Project\Tech-task\Task7\Task7.Core\obj\Debug\netcoreapp3.1\Task7.Core.csproj.CoreCompileInputs.cache
+C:\Project\Tech-task\Task7\Task7.Core\obj\Debug\netcoreapp3.1\Task7.Core.AssemblyInfoInputs.cache
+C:\Project\Tech-task\Task7\Task7.Core\obj\Debug\netcoreapp3.1\Task7.Core.AssemblyInfo.cs
+C:\Project\Tech-task\Task7\Task7.Core\obj\Debug\netcoreapp3.1\Task7.Core.dll
+C:\Project\Tech-task\Task7\Task7.Core\obj\Debug\netcoreapp3.1\Task7.Core.pdb
