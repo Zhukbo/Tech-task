@@ -30,9 +30,11 @@ namespace Task7.DAL.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("OriginalLink")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ShortLink")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -50,8 +52,8 @@ namespace Task7.DAL.Migrations
                     b.Property<int>("LinkId")
                         .HasColumnType("int");
 
-                    b.Property<int>("TransitionCount")
-                        .HasColumnType("int");
+                    b.Property<DateTime>("TransitionDate")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 

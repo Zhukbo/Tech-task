@@ -6,8 +6,8 @@ namespace Task7.Core.Entities
 {
     public class Transition : EntityBase<int>
     {
-        public int TransitionCount { get; set; }
         public int LinkId { get; set; }
         public Link Link { get; set; }
+        public DateTime TransitionDate { get; set; }
     }
 }
