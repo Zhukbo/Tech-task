@@ -26,7 +26,7 @@ namespace Task5
         static string ShowCurrentTemp (string city)
         {
 
-            string response = "";
+            string response = " ";
             HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create("https://goweather.herokuapp.com/weather/" + city);
             httpWebRequest.ContentType = "application/json";
             httpWebRequest.Method = "GET";
